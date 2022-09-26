@@ -17,7 +17,7 @@ HowChat Messenger, or simply HowChat is a simple chat application that allows yo
 
 1. Clone the repository
 2. Create a database and import the `howchat.sql` file
-3. Edit the `config.php` file
+3. Edit the `php/config.php` file
 4. Run the application
 
 
